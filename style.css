@@ -1,0 +1,93 @@
+body {
+    
+
+    background-color: rgb(243, 210, 195);
+    font-family: cursive, fantasy;
+}
+h1 {
+    text-align: center;
+}
+
+.Titulo {
+    color:rgb(206, 19, 56);
+    font-family:'Moirai One', cursive;
+}
+
+.Menu {
+    background-color: rgb(252, 161, 151);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 25px;
+    padding: 25px 25px;
+    border: 5px solid rgb(252, 151, 140);
+    border-width: 5px;
+    border-style: solid;
+    border-style: outset;
+}
+img {
+    width: 300px;
+}
+
+
+
+
+
+.axolote {
+    width: 300px;
+    display: flex;
+    margin-left: 40%;
+    border-radius: 20px;
+}
+
+p {
+    color:rgb(161, 59, 81)
+  
+}
+
+h3 {
+    text-align: left;
+}
+
+
+.Subtitulos {
+    color:rgb(80, 26, 26);
+}
+
+.mitologia{
+    width: 300px;
+    float: right;
+    margin-left: 1%;
+    border-radius: 50px;
+
+    }
+
+.contenedor1{
+   
+    margin-left: 10px;
+}
+
+
+
+#Mitologia{
+    color: rgb(75, 21, 50);
+    text-align: left;
+}
+
+
+
+
+#Anatomia {
+    color: rgb(80, 21, 52);
+    text-align: left;
+}
+
+#Conservacion {
+    color: rgb(82, 21, 53);
+    text-align: left;
+}
+
+a{
+    color:brown;
+    text-decoration: none;
+}
